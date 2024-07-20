@@ -23,6 +23,9 @@ CIFAR-10 is a dataset of 60,000 32x32 color images in 10 classes, with 6,000 ima
 
 This project uses the pre-trained model VGG16 as a base.
 
+# Model Architecture
+![GitHub Logo](https://github.com/paavni24/CIFAR-10-TRANSFER-LEARNING/blob/main/Figure4.png)
+
 # Results
 Test Accuracy: 0.7498000264167786
 
